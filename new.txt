@@ -1,2 +1,4 @@
 add new word.
-changes 1 on branch master.
+changes 1 on branch feature1.
+changes 2 on branch master.
+conflict fixed.
